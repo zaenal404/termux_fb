@@ -7,7 +7,7 @@ STEP :
 4. pkg install php 
 5. pkg install git
 6. pip2 install mechanize
-7. git clone https://github.com/
+7. git clone https://github.com/zaenal404/termux_fb
 8. ls
 9. cd fb_termux
 10. sh fb.sh
