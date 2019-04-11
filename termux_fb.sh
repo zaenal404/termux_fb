@@ -12,14 +12,14 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA  TERMUX FUN"$i"         |"
+echo $i" |"$cy"     INDONESIA  TERMUX FUN"$i"                   |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" LANEAZ _ 404"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" ANON"$i"                   |"
+echo $i" |"$pu" AUTHOR :"$ku" LANEAZ _ 404"$i"                       |"
+echo $i" |"$pu" FACEBOOK :"$ku" ANON"$i"                             |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] "$i" |"
+echo $i" |"$cy"            ~ [cyber] [%MR.S%] "$i"                   |"
 echo $i" |"$pu" Contack WhatsApp :"$ku" 085242788180"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" inas.aldo@gmail.com"$i"      |"
+echo $i" |"$pu" Contack Gmail :"$ku" inas.aldo@gmail.com"$i"         |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
@@ -256,8 +256,8 @@ sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
 echo $ku"WhatsApp :"$i" 085242788180"
-echo $ku"Facebook :"$i" Anon"
+echo $ku"Facebook :"$i"  Zaenal"
 sleep 2
-echo $pur">> Thanks by:aez <<"
+echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
 fi
