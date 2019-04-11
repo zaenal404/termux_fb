@@ -7,19 +7,19 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
-# INDONESIA MAJU
+# Jangan Recode Ya gayn
 echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA  TERMUX FUN"$i"                   |"
+echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" LANEAZ _ 404"$i"                       |"
-echo $i" |"$pu" FACEBOOK :"$ku" ANON"$i"                             |"
+echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
+echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] "$i"                   |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 085242788180"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" inas.aldo@gmail.com"$i"         |"
+echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
+echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
@@ -47,7 +47,7 @@ echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" E"$i" |
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
-echo $me"┌==="$bi"["$i"AEZ_404"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"FR13ND8"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
@@ -255,8 +255,8 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
-echo $ku"WhatsApp :"$i" 085242788180"
-echo $ku"Facebook :"$i"  Zaenal"
+echo $ku"WhatsApp :"$i" 085835787069"
+echo $ku"Facebook :"$i" Riski Darmawan"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
